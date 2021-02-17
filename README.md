@@ -1,4 +1,4 @@
-# REACT Into Exercises 
+# REACT Intro Exercises 
 
 After starting the first unit on React, we were tasked with the following:
 
