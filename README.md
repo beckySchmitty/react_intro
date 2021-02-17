@@ -1,8 +1,8 @@
-### REACT Into Exercises 
+# REACT Into Exercises 
 
 After starting the first unit on React, we were tasked with the following:
 
-# Part 1
+### Part 1
 For this assignment you will be creating three components:
 
 FirstComponent
@@ -12,12 +12,12 @@ renders a p that should accept a property of “name” and display text “My n
 App
 renders a div with instances of the other two components.
 
-# Part 2
+### Part 2
 Define a Tweet component which takes as props the username of the user who wrote the tweet, the name of the user who wrote the tweet, the date of the tweet, and the message being tweeted.
 
 Create an App component that renders at least three tweets.
 
-# Part 3
+### Part 3
 Create a component called Person. Inside of this component, render a p tag which displays “Learn some information about this person”. Each person should have name and age properties.
 
 If the person is over 18 years old, display an additional h3 that says “please go vote!”. Otherwise, display an h3 that says “you must be 18”. If the person’s name is longer than 8 characters, only display the first six characters of their name.
